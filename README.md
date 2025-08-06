@@ -4,7 +4,6 @@
 - 👨‍💻 All of my projects are available at [sabirbepari.com](sabirbepari.com)
 - 📝 I regularly write articles on [sabirbepari.com/blog](sabirbepari.com/blog)
 - 📫 How to reach me **contact@sabirbepari.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabirbepari&label=Profile%20views&color=0e75b6&style=flat" alt="sabirbepari" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
